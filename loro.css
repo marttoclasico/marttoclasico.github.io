@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(243, 99, 207);
+}
+img {
+    width: 300px; /* Establece el ancho al 100% del contenedor */
+    border-radius: 10px; /* Aplica esquinas redondeadas */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Agrega una sombra */
+}
